@@ -1,6 +1,5 @@
 ### NAME: ROBINSON J
 ### REG.NO: 212223040170
-
 # Led-control-using-Arduino
 
 ## AIM
@@ -61,7 +60,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![image](https://github.com/user-attachments/assets/c3c6e521-3f40-4f24-8b18-5e4ea62cd57b)
+![image](https://github.com/user-attachments/assets/09c04d94-0465-48cf-8d4f-db5aa1e89808)
 
 ## PROGRAM
 ```
@@ -83,10 +82,10 @@ void loop() {
 ```
 ## OUTPUT
 ### LED OFF:
-![image](https://github.com/user-attachments/assets/d7d56c45-11f2-4d7e-be08-f58c7b416ea3)
+![image](https://github.com/user-attachments/assets/c552c2f5-bf81-44f1-9fd4-667e49c498f5)
 
 ### LED ON:
-![image](https://github.com/user-attachments/assets/87139cf0-5c8d-4840-821c-64b51f1ec925)
+![image](https://github.com/user-attachments/assets/17650801-9125-43a9-b31b-d974b80e449d)
 
 ## RESULT
 Successfully designed and implemented a system for LED control using an Arduino microcontroller and a push button.
