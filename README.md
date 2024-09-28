@@ -80,6 +80,9 @@ void loop() {
 }
 
 ```
+<br>
+<br>
+<br>
 ## OUTPUT
 ### LED OFF:
 ![image](https://github.com/user-attachments/assets/c552c2f5-bf81-44f1-9fd4-667e49c498f5)
